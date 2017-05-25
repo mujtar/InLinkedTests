@@ -1,0 +1,192 @@
+
+2017-05-09 22:37:44 INFO  Test_LoginPage:17 - URL Navigated
+2017-05-10 17:07:43 INFO  Test_LoginPage:17 - URL Navigated
+2017-05-10 17:32:11 INFO  Test_LoginPage:18 - URL Navigated
+2017-05-10 17:33:55 INFO  Test_LoginPage:18 - URL Navigated
+2017-05-10 17:39:54 INFO  Test_LoginPage:21 - URL Navigated
+2017-05-12 22:05:33 INFO  Test_LoginPage:20 - URL Navigated :https://www.linkedin.com
+2017-05-12 22:05:33 INFO  LoginPage:24 - Email entered: mujtar01@gmail.com
+2017-05-12 22:05:33 INFO  LoginPage:30 - Password entered
+2017-05-12 22:05:33 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 22:05:43 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-12 22:17:22 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-12 22:17:23 INFO  LoginPage:24 - Email entered: mujtar01@gmail.com
+2017-05-12 22:17:23 INFO  LoginPage:30 - Password entered
+2017-05-12 22:17:23 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 22:17:29 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-12 22:19:06 INFO  Test_LoginPage:21 - URL Navigated: https://www.linkedin.com
+2017-05-12 22:19:06 INFO  LoginPage:24 - Email entered: mujtar01@gmail.com
+2017-05-12 22:19:07 INFO  LoginPage:30 - Password entered
+2017-05-12 22:19:07 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 22:19:13 INFO  Test_LoginPage:33 - LinkedIn Home Page is displayed
+2017-05-12 22:20:38 INFO  Test_LoginPage:21 - URL Navigated: https://www.linkedin.com
+2017-05-12 22:20:38 INFO  LoginPage:24 - Email entered: mujtar01@gmail.com
+2017-05-12 22:20:38 INFO  LoginPage:30 - Password entered
+2017-05-12 22:20:38 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 22:20:44 INFO  Test_LoginPage:33 - LinkedIn Home Page is displayed
+2017-05-12 23:12:04 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-12 23:12:04 INFO  LoginPage:24 - Email entered: moontest007.com
+2017-05-12 23:12:04 INFO  LoginPage:30 - Password entered
+2017-05-12 23:12:04 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 23:12:29 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-12 23:12:29 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-12 23:12:29 INFO  LoginPage:30 - Password entered
+2017-05-12 23:12:29 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 23:12:35 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-12 23:19:06 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-12 23:19:06 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-12 23:19:06 INFO  LoginPage:30 - Password entered
+2017-05-12 23:19:06 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 23:19:12 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-12 23:32:55 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-12 23:32:56 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-12 23:32:56 INFO  LoginPage:30 - Password entered
+2017-05-12 23:32:56 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 23:33:02 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-12 23:51:03 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-12 23:51:03 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-12 23:51:04 INFO  LoginPage:30 - Password entered
+2017-05-12 23:51:04 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-12 23:51:10 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-15 14:03:01 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:03:01 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:03:01 INFO  LoginPage:30 - Password entered
+2017-05-15 14:03:01 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:03:07 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-15 14:15:31 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:15:32 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:15:32 INFO  LoginPage:30 - Password entered
+2017-05-15 14:15:32 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:15:38 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-15 14:26:01 INFO  Test_LoginPage:20 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:26:01 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:26:01 INFO  LoginPage:30 - Password entered
+2017-05-15 14:26:01 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:26:10 INFO  Test_LoginPage:32 - LinkedIn Home Page is displayed
+2017-05-15 14:47:16 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:47:17 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:47:17 INFO  LoginPage:30 - Password entered
+2017-05-15 14:47:17 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:47:23 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 14:52:43 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:52:44 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:52:44 INFO  LoginPage:30 - Password entered
+2017-05-15 14:52:44 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:52:51 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 14:53:52 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:53:52 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:53:53 INFO  LoginPage:30 - Password entered
+2017-05-15 14:53:53 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:53:58 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 14:57:45 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:57:46 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:57:46 INFO  LoginPage:30 - Password entered
+2017-05-15 14:57:46 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:57:52 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 14:59:17 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 14:59:17 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 14:59:18 INFO  LoginPage:30 - Password entered
+2017-05-15 14:59:18 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 14:59:24 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 15:37:25 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 15:37:25 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 15:37:25 INFO  LoginPage:30 - Password entered
+2017-05-15 15:37:25 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 15:37:30 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 15:45:25 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 15:45:25 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 15:45:25 INFO  LoginPage:30 - Password entered
+2017-05-15 15:45:26 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 15:45:31 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 16:43:01 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 16:43:01 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 16:43:02 INFO  LoginPage:30 - Password entered
+2017-05-15 16:43:02 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 16:43:07 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 16:43:08 INFO  HomePage:67 - Message has been entered: my second post
+2017-05-15 16:44:40 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 16:44:41 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 16:44:41 INFO  LoginPage:30 - Password entered
+2017-05-15 16:44:41 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 16:44:46 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 16:44:47 INFO  HomePage:67 - Message has been entered: my second post
+2017-05-15 16:44:48 INFO  HomePage:70 - Post Button has been clicked
+2017-05-15 17:01:22 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:01:22 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:01:22 INFO  LoginPage:30 - Password entered
+2017-05-15 17:01:22 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:01:27 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:01:29 INFO  HomePage:68 - Message has been entered: my third post
+2017-05-15 17:02:05 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:02:05 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:02:05 INFO  LoginPage:30 - Password entered
+2017-05-15 17:02:05 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:02:11 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:02:12 INFO  HomePage:68 - Message has been entered: my third post
+2017-05-15 17:02:55 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:02:55 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:02:56 INFO  LoginPage:30 - Password entered
+2017-05-15 17:02:56 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:03:02 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:03:03 INFO  HomePage:68 - Message has been entered: my third post
+2017-05-15 17:28:43 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:28:43 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:28:44 INFO  LoginPage:30 - Password entered
+2017-05-15 17:28:44 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:28:50 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:28:51 INFO  HomePage:68 - Message has been entered: my third post
+2017-05-15 17:28:52 INFO  HomePage:71 - Post Button has been clicked
+2017-05-15 17:30:21 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:30:21 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:30:21 INFO  LoginPage:30 - Password entered
+2017-05-15 17:30:21 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:30:27 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:30:29 INFO  HomePage:68 - Message has been entered: my third post
+2017-05-15 17:30:30 INFO  HomePage:71 - Post Button has been clicked
+2017-05-15 17:32:11 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:32:11 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:32:11 INFO  LoginPage:30 - Password entered
+2017-05-15 17:32:11 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:32:17 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:33:39 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:33:40 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:33:40 INFO  LoginPage:30 - Password entered
+2017-05-15 17:33:40 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:33:48 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:34:55 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:34:55 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:34:55 INFO  LoginPage:30 - Password entered
+2017-05-15 17:34:55 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:35:02 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:38:17 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-15 17:38:17 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-15 17:38:17 INFO  LoginPage:30 - Password entered
+2017-05-15 17:38:17 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-15 17:38:23 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-15 17:38:24 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-15 17:38:24 INFO  HomePage:90 - Button Clicked: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='nav-settings__dropdown-trigger']/following-sibling::ul/descendant::a[text()='Sign out']'
+2017-05-17 18:38:33 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-17 18:38:34 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-17 18:38:34 INFO  LoginPage:30 - Password entered
+2017-05-17 18:38:34 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-17 18:38:40 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-17 18:38:40 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-17 18:38:40 INFO  HomePage:90 - SignOut Button Clicked
+2017-05-25 14:51:49 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-25 14:51:49 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-25 14:51:49 INFO  LoginPage:30 - Password entered
+2017-05-25 14:51:50 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-25 14:51:55 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-25 14:51:55 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-25 14:51:55 INFO  HomePage:90 - SignOut Button Clicked
+2017-05-25 14:58:34 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-25 14:58:34 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-25 14:58:34 INFO  LoginPage:30 - Password entered
+2017-05-25 14:58:34 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-25 14:58:39 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-25 14:58:40 INFO  HomePage:68 - Message has been entered: Yet Another post
+2017-05-25 14:58:40 INFO  HomePage:76 - Post Access Level Button clicked
+2017-05-25 14:58:41 INFO  HomePage:78 - Post Access Level Selected: Connections
+2017-05-25 14:58:41 INFO  HomePage:71 - Post Button has been clicked
+2017-05-25 14:58:41 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-25 14:58:43 INFO  HomePage:90 - SignOut Button Clicked

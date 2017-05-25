@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" allow-return-values="true">
+  <parameter name="pass" value="01Mujtar02"/>
+  <parameter name="browser" value="Firefox"/>
+  <parameter name="url" value="https://www.linkedin.com"/>
+  <parameter name="email" value="moontest007@gmail.com"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="tests.com.test.LinkedIn.Test_HomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="WritePost"/>
+        </methods>
+      </class> <!-- tests.com.test.LinkedIn.Test_HomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
