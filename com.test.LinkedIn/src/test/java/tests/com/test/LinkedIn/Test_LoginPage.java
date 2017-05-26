@@ -35,6 +35,6 @@ public void  LoginwithValidCredentials(String email, String pass){
 	HP.GeneratePublicPost("Yet Another post");
 	HP.LogOut();
 	waitForElement(LP.LoginEmailFld);
-	getScreenShot(email);
+	//getScreenShot(email);
 }
 }
