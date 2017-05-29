@@ -32,8 +32,8 @@ public void  LoginwithValidCredentials(String email, String pass){
 	waitForElement(HP.HomeBtn);
 	Assert.assertTrue(HP.HomeBtn.isDisplayed());
 	log.info("LinkedIn Home Page is displayed");
-	HP.GeneratePublicPost("pak vs india champions trophy");
-	waitForElement(HP.PostBtn);
+	HP.GeneratePublicPost("this is very interesting");
+	waitForElement(HP.MyNetworkBtn);
 	HP.LogOut();
 	waitForElement(LP.LoginEmailFld);
 	//getScreenShot(email);
