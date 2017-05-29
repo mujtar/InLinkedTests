@@ -29,12 +29,13 @@ public void  LoginwithValidCredentials(String email, String pass){
 	LP = new LoginPage(driver);
 	LP.Login(email,pass);
 	HP = new HomePage(driver);
-	#waitForElement(HP.HomeBtn);
+	waitForElement(HP.HomeBtn);
 	Assert.assertTrue(HP.HomeBtn.isDisplayed());
 	log.info("LinkedIn Home Page is displayed");
 	HP.GeneratePublicPost("Yet Another post");
+	waitForElement(HP.PostBtn);
 	HP.LogOut();
 	waitForElement(LP.LoginEmailFld);
-	getScreenShot(email);
+	//getScreenShot(email);
 }
 }

@@ -190,3 +190,56 @@
 2017-05-25 14:58:41 INFO  HomePage:71 - Post Button has been clicked
 2017-05-25 14:58:41 INFO  HomePage:83 - Navigation Settings Clicked
 2017-05-25 14:58:43 INFO  HomePage:90 - SignOut Button Clicked
+2017-05-29 16:36:31 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-29 16:36:32 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-29 16:36:32 INFO  LoginPage:30 - Password entered
+2017-05-29 16:36:32 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-29 16:36:38 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-29 16:36:39 INFO  HomePage:68 - Message has been entered: Yet Another post
+2017-05-29 16:36:39 INFO  HomePage:76 - Post Access Level Button clicked
+2017-05-29 16:36:40 INFO  HomePage:78 - Post Access Level Selected: Connections
+2017-05-29 16:36:40 INFO  HomePage:71 - Post Button has been clicked
+2017-05-29 16:36:40 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-29 16:36:42 INFO  HomePage:90 - SignOut Button Clicked
+2017-05-29 16:39:34 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-29 16:39:35 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-29 16:39:35 INFO  LoginPage:30 - Password entered
+2017-05-29 16:39:35 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-29 16:39:41 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-29 16:39:42 INFO  HomePage:68 - Message has been entered: Yet Another post
+2017-05-29 16:39:42 INFO  HomePage:76 - Post Access Level Button clicked
+2017-05-29 16:39:43 INFO  HomePage:78 - Post Access Level Selected: Connections
+2017-05-29 16:39:43 INFO  HomePage:71 - Post Button has been clicked
+2017-05-29 16:39:44 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-29 16:39:45 INFO  HomePage:90 - SignOut Button Clicked
+2017-05-29 16:40:16 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-29 16:40:16 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-29 16:40:16 INFO  LoginPage:30 - Password entered
+2017-05-29 16:40:17 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-29 16:40:24 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-29 16:40:25 INFO  HomePage:68 - Message has been entered: Yet Another post
+2017-05-29 16:40:25 INFO  HomePage:76 - Post Access Level Button clicked
+2017-05-29 16:40:26 INFO  HomePage:78 - Post Access Level Selected: Connections
+2017-05-29 16:40:26 INFO  HomePage:71 - Post Button has been clicked
+2017-05-29 16:40:27 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-29 16:40:28 INFO  HomePage:90 - SignOut Button Clicked
+2017-05-29 16:43:13 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-29 16:43:13 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-29 16:43:13 INFO  LoginPage:30 - Password entered
+2017-05-29 16:43:13 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-29 16:43:20 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-29 16:43:21 INFO  HomePage:68 - Message has been entered: Yet Another post
+2017-05-29 16:43:21 INFO  HomePage:76 - Post Access Level Button clicked
+2017-05-29 16:43:22 INFO  HomePage:78 - Post Access Level Selected: Connections
+2017-05-29 16:43:22 INFO  HomePage:71 - Post Button has been clicked
+2017-05-29 16:45:54 INFO  Test_LoginPage:22 - URL Navigated: https://www.linkedin.com
+2017-05-29 16:45:54 INFO  LoginPage:24 - Email entered: moontest007@gmail.com
+2017-05-29 16:45:54 INFO  LoginPage:30 - Password entered
+2017-05-29 16:45:55 INFO  LoginPage:36 - SignIn Button Clicked
+2017-05-29 16:46:00 INFO  Test_LoginPage:34 - LinkedIn Home Page is displayed
+2017-05-29 16:46:01 INFO  HomePage:68 - Message has been entered: Yet Another post
+2017-05-29 16:46:01 INFO  HomePage:76 - Post Access Level Button clicked
+2017-05-29 16:46:02 INFO  HomePage:78 - Post Access Level Selected: Connections
+2017-05-29 16:46:02 INFO  HomePage:71 - Post Button has been clicked
+2017-05-29 16:46:04 INFO  HomePage:83 - Navigation Settings Clicked
+2017-05-29 16:46:05 INFO  HomePage:90 - SignOut Button Clicked

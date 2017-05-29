@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" allow-return-values="true">
+  <parameter name="pass" value="01Mujtar02"/>
+  <parameter name="browser" value="Firefox"/>
+  <parameter name="url" value="https://www.linkedin.com"/>
+  <parameter name="email" value="moontest007@gmail.com"/>
+  <test name="Test(failed)">
     <classes>
       <class name="tests.com.test.LinkedIn.Test_LoginPage">
         <methods>
           <include name="tearDown"/>
-          <include name="LoginwithValidCredentials"/>
+          <include name="LoginwithValidCredentials" invocation-numbers="0"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- tests.com.test.LinkedIn.Test_LoginPage -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

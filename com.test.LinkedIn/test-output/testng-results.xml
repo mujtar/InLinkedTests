@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[<a href='D:\Eclipse-Neon\Workspace\com.test.LinkedIn\src\main\java\test_screenshot\moontest007@gmail.com_17_05_2017_06_38_42.png'> <img src='D:\Eclipse-Neon\Workspace\com.test.LinkedIn\src\main\java\test_screenshot\moontest007@gmail.com_17_05_2017_06_38_42.png' height='100' width='100'/> </a>]]>
-    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="9205" started-at="2017-05-17T22:38:33Z" finished-at="2017-05-17T22:38:43Z">
+  <suite name="Suite" duration-ms="11873" started-at="2017-05-29T20:45:54Z" finished-at="2017-05-29T20:46:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9205" started-at="2017-05-17T22:38:33Z" finished-at="2017-05-17T22:38:43Z">
+    <test name="Test" duration-ms="11873" started-at="2017-05-29T20:45:54Z" finished-at="2017-05-29T20:46:06Z">
       <class name="tests.com.test.LinkedIn.Test_LoginPage">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:tests.com.test.LinkedIn.Test_LoginPage@5bcab519]" name="setUp" is-config="true" duration-ms="8154" started-at="2017-05-17T18:38:25Z" finished-at="2017-05-17T18:38:33Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:tests.com.test.LinkedIn.Test_LoginPage@5bcab519]" name="setUp" is-config="true" duration-ms="6231" started-at="2017-05-29T16:45:48Z" finished-at="2017-05-29T16:45:54Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="LoginwithValidCredentials(java.lang.String, java.lang.String)[pri:0, instance:tests.com.test.LinkedIn.Test_LoginPage@5bcab519]" name="LoginwithValidCredentials" duration-ms="9179" started-at="2017-05-17T18:38:33Z" finished-at="2017-05-17T18:38:43Z">
+        <test-method status="PASS" signature="LoginwithValidCredentials(java.lang.String, java.lang.String)[pri:0, instance:tests.com.test.LinkedIn.Test_LoginPage@5bcab519]" name="LoginwithValidCredentials" duration-ms="11834" started-at="2017-05-29T16:45:54Z" finished-at="2017-05-29T16:46:06Z">
           <params>
             <param index="0">
               <value>
@@ -40,12 +37,9 @@
             </param>
           </params>
           <reporter-output>
-            <line>
-              <![CDATA[<a href='D:\Eclipse-Neon\Workspace\com.test.LinkedIn\src\main\java\test_screenshot\moontest007@gmail.com_17_05_2017_06_38_42.png'> <img src='D:\Eclipse-Neon\Workspace\com.test.LinkedIn\src\main\java\test_screenshot\moontest007@gmail.com_17_05_2017_06_38_42.png' height='100' width='100'/> </a>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- LoginwithValidCredentials -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.com.test.LinkedIn.Test_LoginPage@5bcab519]" name="tearDown" is-config="true" duration-ms="655" started-at="2017-05-17T18:38:43Z" finished-at="2017-05-17T18:38:43Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.com.test.LinkedIn.Test_LoginPage@5bcab519]" name="tearDown" is-config="true" duration-ms="599" started-at="2017-05-29T16:46:06Z" finished-at="2017-05-29T16:46:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
