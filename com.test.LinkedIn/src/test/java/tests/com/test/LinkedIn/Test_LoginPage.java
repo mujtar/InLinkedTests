@@ -32,7 +32,7 @@ public void  LoginwithValidCredentials(String email, String pass){
 	waitForElement(HP.HomeBtn);
 	Assert.assertTrue(HP.HomeBtn.isDisplayed());
 	log.info("LinkedIn Home Page is displayed");
-	HP.GeneratePublicPost("Yet Another post");
+	HP.GeneratePublicPost("pak vs india champions trophy");
 	waitForElement(HP.PostBtn);
 	HP.LogOut();
 	waitForElement(LP.LoginEmailFld);
